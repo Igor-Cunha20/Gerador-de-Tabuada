@@ -1,1 +1,1 @@
-# Gerador de Tabuada ✖️
+# Gerador de Tabuada  ✔️
